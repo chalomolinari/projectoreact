@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "nombre": "AVENO LIMPIEZA GEL x250 gr",
+    "category": "Oferta",
+    "precio": "$8.790",
+    "image": "img1"
+  },
+
+  {
+    "id": 2,
+    "nombre": "DERMAGLOS GEL DE LIMPIEZA PURIFICANTE PIELES MIXTAS A GRASAS x150 ml",
+    "category": "Oferta",
+    "precio": "$7.200",
+    "image": "img2"
+  },
+
+  {
+    "id": 3,
+    "nombre": "DERMAGLOS CREMA NUTRITIVA DE NOCHE PIELES NORMALES x70 gr",
+    "category": "Oferta",
+    "precio": "$12.500",
+    "image": "img3"
+  },
+  {
+    "id": 4,
+    "nombre": "DERMAGLOS SERUM FACIAL ÁCIDO HIALURÓNICO x30 ml",
+    "category": "Oferta",
+    "precio": "$13.500",
+    "image": "img4"
+  },
+
+  {
+    "id": 5,
+    "nombre": "MAYBELLINE NEW YORK BASE DE MAQUILLAJE FITME MATTE+PORALESS 102 x30 ml",
+    "category": "Maquillaje",
+    "precio": "$22.147",
+    "image": "img5"
+  },
+
+  {
+    "id": 6,
+    "nombre": "MAYBELLINE NEW YORK LABIAL STAY VINYL INK LIPPY",
+    "category": "Maquillaje",
+    "precio": "$18.173",
+    "image": "img6"
+  },
+
+  {
+    "id": 7,
+    "nombre": "MAYBELLINE NEW YORK DEFINER LINER EXPRESS LAPIZ BLACK",
+    "category": "Maquillaje",
+    "precio": "$15.216",
+    "image": "img7"
+  },
+  {
+    "id": 8,
+    "nombre": "RIMMEL BASE DE MAQUILLAJE K&F SKIN TINT 150",
+    "category": "Maquillaje",
+    "precio": "$19.230",
+    "image": "img8"
+  }
+]
