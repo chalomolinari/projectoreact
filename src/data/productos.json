@@ -2,7 +2,7 @@
   {
     "id": 1,
     "nombre": "AVENO LIMPIEZA GEL x250 gr",
-    "category": "Oferta",
+    "categoryId": "Oferta",
     "precio": "$8.790",
     "image": "img1"
   },
